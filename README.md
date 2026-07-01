@@ -26,8 +26,11 @@ A **visual-novel engine I wrote from scratch in React** — data-driven scene gr
 ### 🛠️ Tech
 
 **Frontend:** React · TypeScript · Vue · Angular · Redux · JavaScript ES6
+
 **Backend:** Node.js · REST · GraphQL · MongoDB
+
 **Infra & tooling:** AWS · Kubernetes · Docker · CI/CD · Jenkins · Git
+
 **Ways of working:** Agile · Scrum / Kanban · code reviews · unit testing
 
 ---
