@@ -17,7 +17,7 @@
 
 ### 🎮 Featured project — [Manuliatina](https://github.com/maxim-belyakov/manuliatina)
 
-A **visual-novel engine I wrote from scratch in React** — data-driven scene graph, art and music that change with the time of day, probabilistic events, save/load and full i18n. Powers the interactive story *Forest Lullaby*.
+A browser-based **interactive visual novel I built in React** — time-of-day art & music, branching choices, probabilistic events, save/load and EN/UK/RU localization. Powers the story *Forest Lullaby*.
 
 ▶ **Play it live:** [www.manuliatina.com](https://www.manuliatina.com)
 
