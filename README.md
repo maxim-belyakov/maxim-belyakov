@@ -34,9 +34,9 @@ A **visual-novel engine I wrote from scratch in React** — data-driven scene gr
 
 ### 📊 GitHub
 
-<!-- These cards render automatically once the repo is public. -->
-![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxim-belyakov&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-belyakov&layout=compact&hide_border=true)
+<!-- Served from a self-hosted github-readme-stats instance on Vercel (reliable, no rate limits). -->
+![Maksim's GitHub stats](https://github-readme-stats-six-zeta-58.vercel.app/api?username=maxim-belyakov&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats-six-zeta-58.vercel.app/api/top-langs/?username=maxim-belyakov&layout=compact&hide_border=true)
 
 ---
 
