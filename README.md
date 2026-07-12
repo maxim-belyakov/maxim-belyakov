@@ -10,6 +10,7 @@
 **Full Stack Engineer** based in Warsaw, Poland. I build web apps end to end — from React/TypeScript frontends to Node back ends — and I like problems where a bit of logic and math makes the UI feel effortless.
 
 - 🔭 Currently a Full Stack Engineer at Omnito
+- 🚧 Building [ragscore](https://github.com/maxim-belyakov/ragscore) — open-source RAG evaluation for TypeScript
 - 🧩 I care about clean architecture, code reviews, and shipping things that actually work
 - 🌍 EN · RU · UK · PL
 
